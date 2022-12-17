@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1088188264345",
+    "project_id": "flutterimagepicker-fb962",
+    "storage_bucket": "flutterimagepicker-fb962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088188264345:android:f84736b76444a851b22d08",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088188264345-b7ccbfru7mljktonhetcn3m8i98fp2i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JxySvrKKJ6xf6XbPq7GfDl72zHJ-dLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088188264345-b7ccbfru7mljktonhetcn3m8i98fp2i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088188264345:android:ce190e983d514955b22d08",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088188264345-b7ccbfru7mljktonhetcn3m8i98fp2i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JxySvrKKJ6xf6XbPq7GfDl72zHJ-dLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088188264345-b7ccbfru7mljktonhetcn3m8i98fp2i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
